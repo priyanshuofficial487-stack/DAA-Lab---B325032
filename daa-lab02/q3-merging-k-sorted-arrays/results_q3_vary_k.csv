@@ -1,0 +1,17 @@
+method,n,k,time_ms
+sequential,500,2,0.004919
+pairwise,500,2,0.004827
+sequential,500,4,0.019316
+pairwise,500,4,0.017726
+sequential,500,8,0.049425
+pairwise,500,8,0.066442
+sequential,500,16,0.140243
+pairwise,500,16,0.185039
+sequential,500,32,0.422158
+pairwise,500,32,0.394611
+sequential,500,64,1.720584
+pairwise,500,64,0.954989
+sequential,500,128,5.929836
+pairwise,500,128,2.074978
+sequential,500,256,23.265778
+pairwise,500,256,4.390562
